@@ -1,1 +1,11 @@
+# This is the requirements file for the Threat Detection uisng sysmon project. 
+# Below are all the necessary Python packages to run the project.
 
+pandas
+numpy
+scikit-learn # For Datapreprocessing, RandomForestClassifier, LogisticRegression, and SVM 
+matplotlib
+seaborn
+imblearn
+xgboost
+streamlit
