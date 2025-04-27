@@ -10,6 +10,10 @@ numpy
 scikit-learn # For Data preprocessing, RandomForestClassifier, LogisticRegression, and SVM 
 matplotlib
 seaborn
+imbalanced-learn
 imblearn
 xgboost
 streamlit
+xgboost
+plotly
+joblib
