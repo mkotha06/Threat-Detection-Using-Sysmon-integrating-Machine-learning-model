@@ -13,7 +13,7 @@ seaborn
 imbalanced-learn
 imblearn
 xgboost
-streamlit
+streamlit  # for streamlit app
 xgboost
 plotly
-joblib
+joblib # to save/load models
