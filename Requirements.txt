@@ -1,10 +1,9 @@
+# This is the requirements file for the Threat Detection using sysmon project.
 #Installations Required
 Sysmon
 Splunk Enterprise
 
-# This is the requirements file for the Threat Detection using sysmon project. 
 # Below are all the necessary Python packages to run the project.
-
 pandas
 numpy
 scikit-learn # For Data preprocessing, RandomForestClassifier, LogisticRegression, and SVM 
